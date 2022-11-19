@@ -16,13 +16,13 @@ This is a Ecommerce app build over react native runs over android &amp; ios.
   </tr>
   <tr>
     <td>
-      <img src="/images/9.jpg" width=300>
+      <img src="/images/2.jpg" width=300>
     </td>
     <td>
       <img src="/images/5.jpg" width=300>
     </td>
     <td>
-      <img src="/images/6.png" width=300>
+      <img src="/images/6.jpg" width=300>
     </td>
     </tr>
     <tr>
@@ -33,7 +33,7 @@ This is a Ecommerce app build over react native runs over android &amp; ios.
       <img src="/images/7.jpg" width=300>
     </td>
     <td>
-      <img src="/images/2.jpg" width=300>
+      <img src="/images/9.jpg" width=300>
     </td>
   </tr>
 </table>
